@@ -1,36 +1,102 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import React from "react";
+import { Link } from "gatsby";
+import { Location } from "@reach/router";
+import github from "../img/github-icon.svg";
+import logo from "../img/logo.svg";
+import styles from "./all.module.css";
 
-const Navbar = class extends React.Component {
+const Navbar = props => {
+  const [active, setActive] = React.useState(false);
+  const toggleActive = () => {
+    setActive(prev => !prev);
+  };
+
+  return (
+    <nav>
+      <div className={active ? styles.menuActive : styles.menu}>
+        <div
+          className={active ? styles.menuItem : styles.menuItemBlack}
+          onClick={toggleActive}
+        >
+          MENU
+        </div>
+        {active && (
+          <Location>
+            {({ location }) => {
+              const isWorkPage = location.pathname === "/";
+              const isAfterWorkPage = location.pathname.startsWith(
+                "/afterwork"
+              );
+              const isAboutPage = location.pathname.startsWith("/about");
+
+              return (
+                <>
+                  <Link
+                    to="/"
+                    className={
+                      isWorkPage ? styles.menuItemBlack : styles.menuItem
+                    }
+                  >
+                    WORK
+                  </Link>
+                  <Link
+                    to="/afterwork"
+                    className={
+                      isAfterWorkPage ? styles.menuItemBlack : styles.menuItem
+                    }
+                  >
+                    AFTER WORK
+                  </Link>
+                  <Link
+                    to="/about"
+                    className={
+                      isAboutPage ? styles.menuItemBlack : styles.menuItem
+                    }
+                  >
+                    ABOUT
+                  </Link>
+                </>
+              );
+            }}
+          </Location>
+        )}
+      </div>
+      <div className={active ? styles.brandActive : styles.brand}>
+        <div className={styles.brandTitle}>Ruth Hutagalung</div>
+        <div className={styles.brandSubtitle}>COPYWRITER</div>
+      </div>
+    </nav>
+  );
+};
+
+const NavbarOld = class extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       active: false,
-      navBarActiveClass: '',
-    }
+      navBarActiveClass: ""
+    };
   }
 
   toggleHamburger = () => {
     // toggle the active boolean in the state
     this.setState(
       {
-        active: !this.state.active,
+        active: !this.state.active
       },
       // after state has been updated,
       () => {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: 'is-active',
+              navBarActiveClass: "is-active"
             })
           : this.setState({
-              navBarActiveClass: '',
-            })
+              navBarActiveClass: ""
+            });
       }
-    )
-  }
+    );
+  };
 
   render() {
     return (
@@ -42,7 +108,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -91,8 +157,8 @@ const Navbar = class extends React.Component {
           </div>
         </div>
       </nav>
-    )
+    );
   }
-}
+};
 
-export default Navbar
+export default Navbar;

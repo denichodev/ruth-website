@@ -1,0 +1,48 @@
+.brand {
+  padding: 0 16px 16px 16px;
+}
+
+.brandActive {
+  padding: 16px;
+}
+
+.brandTitle {
+  font-family: "Josefin Sans", "sans-serif";
+  font-weight: 700;
+  font-size: 39px;
+}
+
+.brandSubtitle {
+  font-weight: 600;
+  margin: 0;
+  margin-top: 4px;
+  color: #878787;
+  font-size: 12px;
+}
+
+.menu {
+  padding: 8px 0;
+}
+
+.menuActive {
+  composes: menu;
+  border: 1px solid #979797;
+}
+
+.menuItem:hover {
+  color: black !important;
+}
+
+.menuItem {
+  cursor: pointer;
+  font-size: 12px;
+  padding: 8px 18px 8px 18px;
+  color: #878787;
+  text-decoration: none;
+  display: block;
+}
+
+.menuItemBlack {
+  composes: menuItem;
+  color: black;
+}
