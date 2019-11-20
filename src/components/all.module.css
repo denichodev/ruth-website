@@ -1,7 +1,7 @@
 /* HEADER */
 
 .navbar {
-  max-width: 1440px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -100,6 +100,7 @@
     padding: 75px;
     padding-bottom: 60px;
     align-items: flex-start;
+    padding-left: 16px;
   }
 
   .navbar .brandActive {
@@ -112,12 +113,12 @@
   .menu {
     display: flex;
     flex-direction: row;
-    padding-right: 75px;
+    padding-right: 0;
   }
 
   .menuActive {
     border: none;
-    padding-right: 75px;
+    padding-right: 0;
   }
 }
 
@@ -125,9 +126,11 @@
 
 .grid {
   display: flex;
+  margin: 0 auto;
   flex-wrap: wrap;
   justify-content: space-around;
   width: 100%;
+  padding: 0 8px;
 }
 
 .post {
@@ -136,12 +139,10 @@
 }
 
 .postThumbnail {
-  max-width: 200px;
   margin: 0 auto;
 }
 
 .postMeta {
-  max-width: 200px;
   margin: 0 auto;
   text-align: center;
   margin-top: 8px;
@@ -151,4 +152,28 @@
   text-decoration: none;
   color: #575757;
   font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .grid {
+    max-width: 696px;
+    padding: 0 12px;
+  }
+
+  .post {
+    width: 33%;
+    padding: 12px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .grid {
+    max-width: 960px;
+    padding: 0;
+  }
+
+  .post {
+    width: 33%;
+    padding: 16px;
+  }
 }
