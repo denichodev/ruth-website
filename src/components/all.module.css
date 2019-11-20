@@ -1,3 +1,8 @@
+.navbar {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 .brand {
   padding: 0 16px 16px 16px;
 }
@@ -7,7 +12,7 @@
 }
 
 .brandTitle {
-  font-family: "Josefin Sans", "sans-serif";
+  font-family: 'Josefin Sans', 'sans-serif';
   font-weight: 700;
   font-size: 39px;
 }
@@ -45,4 +50,71 @@
 .menuItemBlack {
   composes: menuItem;
   color: black;
+}
+
+@media (min-width: 768px) {
+  .brand {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 32px;
+    padding-bottom: 60px;
+  }
+
+  .brandTitle {
+    font-size: 48px;
+  }
+
+  .brandSubtitle {
+    font-size: 16px;
+  }
+
+  .brandActive {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 32px;
+  }
+
+  .menu {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .menuItem {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .navbar .brand {
+    order: -1;
+    padding: 75px;
+    padding-bottom: 60px;
+    align-items: flex-start;
+  }
+
+  .navbar .brandActive {
+    order: -1;
+    padding: 75px;
+    padding-bottom: 60px;
+    align-items: flex-start;
+  }
+
+  .menu {
+    display: flex;
+    flex-direction: row;
+    padding-right: 75px;
+  }
+
+  .menuActive {
+    border: none;
+    padding-right: 75px;
+  }
 }

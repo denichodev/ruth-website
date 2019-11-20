@@ -1,9 +1,10 @@
-import React from "react";
-import { Link } from "gatsby";
-import { Location } from "@reach/router";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
-import styles from "./all.module.css";
+import React from 'react';
+import { Link } from 'gatsby';
+import { Location } from '@reach/router';
+import useWindowSize from '../hooks/useWindowSize';
+import github from '../img/github-icon.svg';
+import logo from '../img/logo.svg';
+import styles from './all.module.css';
 
 const Navbar = props => {
   const [active, setActive] = React.useState(false);
@@ -11,23 +12,29 @@ const Navbar = props => {
     setActive(prev => !prev);
   };
 
+  const size = useWindowSize();
+  const isDesktop = size.width >= 1024;
+  const shouldShowLink = active || isDesktop;
+
   return (
-    <nav>
+    <nav className={styles.navbar}>
       <div className={active ? styles.menuActive : styles.menu}>
-        <div
-          className={active ? styles.menuItem : styles.menuItemBlack}
-          onClick={toggleActive}
-        >
-          MENU
-        </div>
-        {active && (
+        {!isDesktop && (
+          <div
+            className={active ? styles.menuItem : styles.menuItemBlack}
+            onClick={toggleActive}
+          >
+            MENU
+          </div>
+        )}
+        {shouldShowLink && (
           <Location>
             {({ location }) => {
-              const isWorkPage = location.pathname === "/";
+              const isWorkPage = location.pathname === '/';
               const isAfterWorkPage = location.pathname.startsWith(
-                "/afterwork"
+                '/afterwork'
               );
-              const isAboutPage = location.pathname.startsWith("/about");
+              const isAboutPage = location.pathname.startsWith('/about');
 
               return (
                 <>
@@ -74,7 +81,7 @@ const NavbarOld = class extends React.Component {
     super(props);
     this.state = {
       active: false,
-      navBarActiveClass: ""
+      navBarActiveClass: ''
     };
   }
 
@@ -89,10 +96,10 @@ const NavbarOld = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: "is-active"
+              navBarActiveClass: 'is-active'
             })
           : this.setState({
-              navBarActiveClass: ""
+              navBarActiveClass: ''
             });
       }
     );
@@ -108,7 +115,7 @@ const NavbarOld = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
             <div
