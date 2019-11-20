@@ -3,13 +3,55 @@ import PropTypes from 'prop-types';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
+import styles from './all.module.css';
+
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
 
+    console.log('data', data);
+
     return (
-      <div className="columns is-multiline">
+      <div className={styles.grid}>
+        {posts &&
+          posts.map(({ node: post }) => (
+            <div className={styles.post} key={post.id}>
+              <article>
+                <header>
+                  {post.frontmatter.featuredimage ? (
+                    <div className={styles.postThumbnail}>
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`
+                        }}
+                      />
+                    </div>
+                  ) : null}
+                  <p className={styles.postMeta}>
+                    <Link
+                      className="title has-text-primary is-size-4"
+                      to={post.fields.slug}
+                    >
+                      {post.frontmatter.title}
+                    </Link>
+                  </p>
+                </header>
+              </article>
+            </div>
+          ))}
+      </div>
+    );
+  }
+}
+class BlogRollOld extends React.Component {
+  render() {
+    const { data } = this.props;
+    const { edges: posts } = data.allMarkdownRemark;
+
+    return (
+      <div>
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-6" key={post.id}>

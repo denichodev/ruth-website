@@ -1,3 +1,5 @@
+/* HEADER */
+
 .navbar {
   max-width: 1440px;
   margin: 0 auto;
@@ -117,4 +119,36 @@
     border: none;
     padding-right: 75px;
   }
+}
+
+/* BLOG ROLL */
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.post {
+  width: 50%;
+  padding: 8px;
+}
+
+.postThumbnail {
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+.postMeta {
+  max-width: 200px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.postMeta a {
+  text-decoration: none;
+  color: #575757;
+  font-weight: 600;
 }
