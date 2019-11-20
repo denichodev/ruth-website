@@ -122,6 +122,14 @@
   }
 }
 
+@media (min-width: 1440px) {
+  .navbar {
+    max-width: 1440px;
+    padding-left: 84px;
+    padding-right: 84px;
+  }
+}
+
 /* BLOG ROLL */
 
 .grid {
@@ -175,5 +183,18 @@
   .post {
     width: 33%;
     padding: 16px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .grid {
+    max-width: 1440px;
+    padding-left: 75px;
+    padding-right: 75px;
+  }
+
+  .post {
+    width: 33%;
+    padding: 24px;
   }
 }
