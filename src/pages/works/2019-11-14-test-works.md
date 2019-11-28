@@ -10,4 +10,18 @@ featuredimage: /img/shoon-cover.jpg
 tags:
   - ''
 ---
-Good
+We all care about our look, don't we? I mean, nobody wants to look like a swamp demon with all that wildly grown beards and frizzy hair. 
+
+
+
+One question that get asked all the time is, shouldn't a business name actually mean something? No. We picked SHOOM as the name because it is catchy to the ear and easy to spell. The meaningless 'SHOOM' will come to mean something when a brand is successful over time. It will become synonymous with what you do and the way you do it. It will become a brand name. 
+
+
+
+
+
+"Oooh your hair looks nice!"
+
+"Geez. Thanks. Just shoomed it."
+
+😲
