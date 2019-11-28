@@ -2,10 +2,12 @@
 templateKey: works-post
 title: HELVETICA
 date: 2019-11-20T15:25:11.870Z
-description: helvethicc
+description: 'Copywriting, Web Design, Graphic Treatment.'
 featuredpost: true
-featuredimage: /img/shoom.jpg
+featuredimage: /img/hv-cover.png
 tags:
-  - hah
+  - ''
 ---
-font helvetica
+A multinational MICE organiser. We design Helvetica's presentation deck, website, stationary kits, and company profile booklet. 
+
+![](/img/hlv.png)
