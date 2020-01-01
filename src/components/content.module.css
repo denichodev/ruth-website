@@ -1,0 +1,9 @@
+.content {
+  color: rgb(87, 87, 87);
+  font-size: 15px;
+  line-height: 27px;
+}
+
+.content > p > span {
+  margin: 2em 0;
+}

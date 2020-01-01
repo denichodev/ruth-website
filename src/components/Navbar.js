@@ -1,10 +1,10 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import { Location } from '@reach/router';
-import useWindowSize from '../hooks/useWindowSize';
-import github from '../img/github-icon.svg';
-import logo from '../img/logo.svg';
-import styles from './all.module.css';
+import React from "react";
+import { Link } from "gatsby";
+import { Location } from "@reach/router";
+import useWindowSize from "../hooks/useWindowSize";
+import github from "../img/github-icon.svg";
+import logo from "../img/logo.svg";
+import styles from "./all.module.css";
 
 const Navbar = props => {
   const [active, setActive] = React.useState(false);
@@ -30,11 +30,11 @@ const Navbar = props => {
         {shouldShowLink && (
           <Location>
             {({ location }) => {
-              const isWorkPage = location.pathname === '/';
+              const isWorkPage = location.pathname === "/";
               const isAfterWorkPage = location.pathname.startsWith(
-                '/afterwork'
+                "/afterwork"
               );
-              const isAboutPage = location.pathname.startsWith('/about');
+              const isAboutPage = location.pathname.startsWith("/about");
 
               return (
                 <>
@@ -69,7 +69,9 @@ const Navbar = props => {
         )}
       </div>
       <div className={active ? styles.brandActive : styles.brand}>
-        <div className={styles.brandTitle}>Ruth Hutagalung</div>
+        <Link to="/" className={styles.brandTitle}>
+          <div>Ruth Hutagalung</div>
+        </Link>
         <div className={styles.brandSubtitle}>COPYWRITER</div>
       </div>
     </nav>
@@ -81,7 +83,7 @@ const NavbarOld = class extends React.Component {
     super(props);
     this.state = {
       active: false,
-      navBarActiveClass: ''
+      navBarActiveClass: ""
     };
   }
 
@@ -96,10 +98,10 @@ const NavbarOld = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: 'is-active'
+              navBarActiveClass: "is-active"
             })
           : this.setState({
-              navBarActiveClass: ''
+              navBarActiveClass: ""
             });
       }
     );
@@ -115,7 +117,7 @@ const NavbarOld = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
             </Link>
             {/* Hamburger menu */}
             <div

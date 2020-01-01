@@ -364,17 +364,24 @@ template {
 }
 
 @font-face {
-  font-family: "Open Sans";
-  src: url("fonts/OpenSans-Regular.ttf") format("truetype");
+  font-family: "Josefin Sans";
+  src: url("fonts/JosefinSans-Bold.ttf") format("truetype");
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 @font-face {
   font-family: "Open Sans";
-  src: url("fonts/OpenSans-SemiBold.ttf") format("truetype");
-  font-style: italic;
+  src: url("fonts/OpenSans-Regular.ttf") format("truetype");
+  font-style: normal;
   font-weight: 500;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("fonts/OpenSans-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
 }
 
 body {
