@@ -173,8 +173,8 @@
 
 .postMeta a {
   text-decoration: none;
-  color: #575757;
-  font-weight: 600;
+  color: #878787;
+  font-size: 12px;
 }
 
 .featuredImg {
@@ -189,6 +189,10 @@
   .grid {
     max-width: 696px;
     padding: 0 12px;
+  }
+
+  .postMeta a {
+    font-size: 14px;
   }
 
   .post {
