@@ -4,9 +4,7 @@ title: "M-m-m..me?\U0001F97A"
 ---
 ![](/img/square-flip.jpg)
 
-
-
-### I dislike my natural black hair color, sometimes I do pink, sometimes I do purple, any moment later, it could be a different color.
+### I dislike my natural black hair color, sometimes I do pink, sometimes I do purple, any moment later it could be a different color.
 
 ### 
 
