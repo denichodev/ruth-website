@@ -1,19 +1,21 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: "M-m-m..me?\U0001F97A"
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![](/img/square-flip.jpg)
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### I dislike my natural black hair color, sometimes I do pink, sometimes I do purple, any moment later, it could be a different color.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+### I might be not a 100% decent human being but I am a 100% decent cat mom.
+
+### 
+
+### My experience in this field is as young as that toddler that always cries and begs for only-god-knows-what in your flight it drives everyone crazy. 3 years 🙄. I really like the process to create something for brands. I think I really really really like it that 20 more years in this field is OK with me.
+
+### 
+
+### I’m on my happiest from when I create things. Work with me!
