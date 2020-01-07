@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { AfterworksPostTemplate } from "../../templates/afterworks-post";
+import { AfterWorksPostTemplate } from "../../templates/afterworks-post";
 
 const AfterworksPostPreview = ({ entry, widgetFor }) => (
-  <AfterworksPostTemplate
+  <AfterWorksPostTemplate
     content={widgetFor("body")}
     description={entry.getIn(["data", "description"])}
     tags={entry.getIn(["data", "tags"])}
