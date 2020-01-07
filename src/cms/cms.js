@@ -6,7 +6,7 @@ import AboutPagePreview from "./preview-templates/AboutPagePreview";
 import AfterworkPagePreview from "./preview-templates/AfterworkPagePreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
 import WorksPostPreview from "./preview-templates/WorksPostPreview";
-import AfterworksPostPreview from "./preview-templates/AfterworksPostPreview";
+import AfterworksPostPreview from "./preview-templates/AfteworksPostPreview";
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
