@@ -11,7 +11,7 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
     return (
       <Img
         className={styles.featuredImg}
-        fluid={image.childImageSharp.fluid}
+        fluid={{...image.childImageSharp.fluid, aspectRatio: 1}}
         alt={alt}
       />
     );
