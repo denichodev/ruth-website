@@ -5,13 +5,10 @@ import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
 import styles from "./all.module.css";
 
-class BlogRoll extends React.Component {
+class WorksRoll extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-
-    console.log('POSTS', posts);
-
 
     return (
       <div className={styles.grid}>
@@ -49,7 +46,7 @@ class BlogRoll extends React.Component {
   }
 }
 
-BlogRoll.propTypes = {
+WorksRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array
@@ -60,7 +57,7 @@ BlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BlogRollQuery {
+      query WorksRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "works-post" } } }
@@ -90,6 +87,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <WorksRoll data={data} count={count} />}
   />
 );

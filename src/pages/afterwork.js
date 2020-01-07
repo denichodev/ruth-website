@@ -1,9 +1,9 @@
 import React from "react";
 
 import Layout from "../components/Layout";
-import WorksRoll from "../components/WorksRoll";
+import AfterworksRoll from "../components/AfterworksRoll";
 
-export default class BlogIndexPage extends React.Component {
+export default class AfterWorkIndexPage extends React.Component {
   render() {
     return (
       <Layout>
@@ -18,7 +18,7 @@ export default class BlogIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <WorksRoll />
+              <AfterworksRoll />
             </div>
           </div>
         </section>

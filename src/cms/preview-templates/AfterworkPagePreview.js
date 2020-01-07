@@ -1,19 +1,19 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { AfterworkTemplate } from '../../templates/afterwork-page'
+import React from "react";
+import PropTypes from "prop-types";
+import { AfterWorksPostTemplate } from "../../templates/afterworks-post";
 
-const AfterworkPagePreview = ({ entry, widgetFor }) => (
-  <AfterworkTemplate
-    title={entry.getIn(['data', 'title'])}
-    content={widgetFor('body')}
+const AfterworksPagePreview = ({ entry, widgetFor }) => (
+  <AfterWorksPostTemplate
+    title={entry.getIn(["data", "title"])}
+    content={widgetFor("body")}
   />
-)
+);
 
-AfterworkPagePreview.propTypes = {
+AfterworksPagePreview.propTypes = {
   entry: PropTypes.shape({
-    getIn: PropTypes.func,
+    getIn: PropTypes.func
   }),
-  widgetFor: PropTypes.func,
-}
+  widgetFor: PropTypes.func
+};
 
-export default AfterworkPagePreview
+export default AfterworksPagePreview;
