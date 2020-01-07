@@ -4,7 +4,7 @@ title: HELVETICA
 date: 2019-11-20T15:25:11.870Z
 description: 'Copywriting, Web Design, Graphic Treatment.'
 featuredpost: true
-featuredimage: /img/hv-cover.png
+featuredimage: /img/post3.jpg
 tags:
   - ''
 ---
