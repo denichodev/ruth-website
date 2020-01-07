@@ -4,7 +4,7 @@ title: STUDY BUDDY
 date: 2019-11-20T14:19:47.771Z
 description: 'Social Media Maintenance, Photography, Graphic Treatment, Campaign.'
 featuredpost: true
-featuredimage: /img/maraville-cover.jpg
+featuredimage: /img/monalisa-needs-coffee.jpg
 tags:
   - coffee
 ---
