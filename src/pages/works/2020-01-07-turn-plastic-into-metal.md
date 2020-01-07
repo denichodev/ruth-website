@@ -6,12 +6,12 @@ description: >-
   Copywriting, Photography, Ads, Video Shoot, Graphic Treatment, Brand Content,
   Campaign.
 featuredpost: true
-featuredimage: /img/str3.jpg
+featuredimage: /img/56691815_1022213787970813_575069370562703900_n.jpg
 tags:
   - Campaign
 ---
-![](/img/str3.jpg)
+![plastic straw campaign underwater](/img/str3.jpg "plastic straw campaign")
 
-![](/img/str2.jpg)
+![plastic straw campaign sea](/img/str2.jpg "plastic straw campaign")
 
-![](/img/str1.jpg)
+![plastic straw campaign yogyakarta](/img/str1.jpg "plastic straw campaign")
