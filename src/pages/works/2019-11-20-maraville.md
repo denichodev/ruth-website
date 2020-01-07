@@ -4,7 +4,7 @@ title: STUDY BUDDY
 date: 2019-11-20T14:19:47.771Z
 description: 'Social Media Maintenance, Photography, Graphic Treatment, Campaign.'
 featuredpost: true
-featuredimage: /img/monalisa-needs-coffee.jpg
+featuredimage: /img/post3.jpg
 tags:
   - coffee
 ---
@@ -12,12 +12,12 @@ Not your average co-working facility nor your mega-chain coffee shop. For half o
 
 We filled up Maraville's daily Instagram content with supportive and stimulative visuals and captions to get them young workers and college students checked out their to-do list. In line with Maraville's tagline, Believe in Hard Work.
 
-![](/img/mr4.jpg)
+![](/img/post3.jpg)
 
-![](/img/mr2.jpg)
+![](/img/post1.jpg)
 
-![](/img/mr3.jpg)
+![](/img/post2.jpg)
 
-![](/img/mr.jpg "(spot me in this pic!)")
+![](/img/post4.jpg)
 
 You do the hard work, Maraville do the support.
