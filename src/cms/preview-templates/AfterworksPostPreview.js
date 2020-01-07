@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { WorksPostTemplate } from "../../templates/afterworks-post";
+import { AfterworksPostTemplate } from "../../templates/afterworks-post";
 
 const AfterworksPostPreview = ({ entry, widgetFor }) => (
   <AfterworksPostTemplate
