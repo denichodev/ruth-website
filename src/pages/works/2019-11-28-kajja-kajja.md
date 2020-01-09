@@ -9,7 +9,7 @@ tags:
   - Korean Foods
   - Kpop
 ---
-Old school, but not really. Feel the new authentic through Dae Jang Geum's foods and dining experience. Established since 2011 and one of the first authentic korean restaurant in Yogyakarta, they needed a fresh and new idea to keep the business going. We create the new logo, tagline, visual identity, and interrior design for its new store and concept.
+Old school, but not really. Feel the new authentic through Dae Jang Geum's foods and dining experience. Established since 2011 and one of the first authentic Korean restaurants in Yogyakarta, they needed a fresh and new idea to keep the business going. We create a new logo, tagline, visual identity, and interior design for its new store and concept.
 
 ![dae jang geum tagline "feel the new authentic"](/img/whatsapp-image-2019-12-30-at-17.30.19-1-.jpeg "tagline")
 
