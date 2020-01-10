@@ -13,7 +13,7 @@ const Footer = class extends React.Component {
               ruthhutagalungs@gmail.com
             </a>{" "}
             |{" "}
-            <a href="#" target="https://drive.google.com/file/d/1h-FOEZ2rfl3HHJxOQ6KLj5hOuvySgdib/view" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1h-FOEZ2rfl3HHJxOQ6KLj5hOuvySgdib/view" target="_blank" rel="noopener noreferrer">
               Resume
             </a>{" "}
             |{" "}
