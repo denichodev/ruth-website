@@ -11,4 +11,18 @@ tags:
   - waste management
   - startup company
 ---
+Perfecting the whole app redesign.
+
+Working on the app's buttons, micro copies, and onboarding page.
+
+
+
+I led the UX writing and design, collaborated with one designer and other software engineers.
+
+I stopped working on the project during the detailed visual design phase as the app started to be built.
+
+The new redesigned app will launch in Google Playstore soon.
+
+Here's the link for the app before redesigned.
+
 https://play.google.com/store/apps/details?id=sg.com.jetdigital.werider.app
