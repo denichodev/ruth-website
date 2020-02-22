@@ -9,10 +9,12 @@ tags:
   - ux writing
   - app design
 ---
-Due to the client's policy and agreement, I can't show you the visuals of the app. 😟 
-
-But that's OK! 
-
 We built an app for flight attendants. The Inflight Service app will automatically sort meals preferences, saving flight attendants the tally marks and manual counting that currently characterize taking meal orders.
 
 Furthermore, the app will offer pictures and a more detailed description of each meal choice, providing customers more insight to make their choice. The app will also take drink orders, indicate special meal orders, and allow for customization requests to be processed.
+
+
+
+**Due to the client's policy and agreement, I can't show you the visuals of the app. 😟** 
+
+**Sad...**
