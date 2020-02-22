@@ -13,7 +13,7 @@ We built an app for flight attendants. The Inflight Service app will automatical
 
 Furthermore, the app will offer pictures and a more detailed description of each meal choice, providing customers more insight to make their choice. The app will also take drink orders, indicate special meal orders, and allow for customization requests to be processed.
 
-
+I know you want to see the app and the words I wrote there, ME TOO! B..B,,,but..
 
 **Due to the client's policy and agreement, I can't show you the visuals of the app. 😟** 
 
