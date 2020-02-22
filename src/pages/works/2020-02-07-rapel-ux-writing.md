@@ -15,13 +15,27 @@ Perfecting the whole app redesign.
 
 Working on the app's buttons, micro copies, and onboarding page.
 
-
-
-I led the UX writing and design, collaborated with one designer and other software engineers.
+I handled the UX writing and design, collaborated with one designer and other software engineers.
 
 I stopped working on the project during the detailed visual design phase as the app started to be built.
 
 The new redesigned app will launch in Google Playstore soon.
+
+![](/img/picture1.png)
+
+![](/img/picture2.png)
+
+![](/img/picture3.png)
+
+![](/img/picture4.png)
+
+![](/img/picture6.png)
+
+![](/img/picture7.png)
+
+
+
+
 
 Here's the link for the app before redesigned.
 
