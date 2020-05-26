@@ -4,7 +4,7 @@ title: 'Ralali.com SEO Articles '
 date: 2020-05-26T04:05:24.855Z
 description: "I wrote SEO articles for Ralali.com \U0001F4DD "
 featuredpost: true
-featuredimage: /img/memo_1f4dd.png
+featuredimage: /img/ralali-logo-copy.jpg
 tags:
   - SEO articles Ralali.com
 ---
