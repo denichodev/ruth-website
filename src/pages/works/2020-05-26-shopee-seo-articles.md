@@ -4,7 +4,7 @@ title: Shopee SEO Articles
 date: 2020-05-26T04:15:08.960Z
 description: 'Another series of SEO articles by me, for Shopee Indonesia. '
 featuredpost: true
-featuredimage: /img/clipboard_1f4cb.png
+featuredimage: /img/shopee-1.jpg
 tags:
   - SEO articles Shopee Indonesia
 ---
