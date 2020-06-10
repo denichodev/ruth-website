@@ -1,6 +1,6 @@
 ---
 templateKey: works-post
-title: 'Ralali.com SEO Articles '
+title: RALALI.COM SEO ARTICLES
 date: 2020-05-26T04:05:24.855Z
 description: "I wrote SEO articles for Ralali.com \U0001F4DD "
 featuredpost: true
