@@ -12,21 +12,21 @@ tags:
   - E-commerce
   - Application
 ---
-As I am responsible for Bukalapak's Core, Growth, Financing, and Investment products. With mobile push notifications, we can trigger immediate actions for user. Here are some example of copies for push notifications that I wrote.
+I am responsible for Bukalapak's Core, Growth, Financing, and Investment's copies. Here are some example of push notifications that I wrote.
 
  ‎
 
-For security issue, Bukalapak need to inform users whenever there are any login activities to their account so we can reduce hijacking cases. If user click the notification, they will be redirected to device history log page where user can immediately change their password and logout their account from suspicious devices. This notification can only appear on user's trusted device.
+For security issue, Bukalapak need to inform users whenever there are any login activities to their account so we can reduce hijacking cases. With mobile push notifications, we can trigger immediate actions for user. 
 
 ![](/img/notification.png)
 
-This push notification can direct users to a certain place where we want our user to go. Using deep links is a surefire way to engage users with our app, and with the use of a powerful call to action it causes users to perform the required action. 
+Using deep links is a surefire way to engage users with our app, and with the use of a powerful call to action it causes users to perform the required action. 
 
  ‎
 
  ‎
 
- For financing products such as Kredit Instan, we make sure users are notified throughout the whole flow‎.  Users can get real-time updates and reminders about the products to increase conversion rates.
+ For financing products such as Kredit Instan, we make sure users are notified throughout the whole journey.  Users can get real-time updates and reminders about the product to re-engage and retain users.
 
 ![](/img/notification-1-.png)
 
