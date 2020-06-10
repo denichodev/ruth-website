@@ -13,11 +13,9 @@ tags:
 ---
 Perfecting the whole app redesign.
 
-Working on the app's buttons, micro copies, and onboarding page.
+Working on the user's journey and flow throughout the app, micro copies, and onboarding page.
 
-I handled the UX writing and design, collaborated with one designer and other software engineers.
-
-I stopped working on the project during the detailed visual design phase as the app started to be built.
+Handled the UX writing and design, collaborated with one designer and few software engineers. Stopped working on the project during the detailed visual design phase as the app started to be built.
 
 The new redesigned app is available now at Google Playstore [here](https://play.google.com/store/apps/details?id=sg.com.jetdigital.werider.app).
 
