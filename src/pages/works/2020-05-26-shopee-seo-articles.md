@@ -74,25 +74,25 @@ Sobat Shopee, kamu suka melakukan kegiatan outdoor seperti hiking, diving, rafti
 
 1. Samsung Galaxy S10+
 
-![]()
+![](/img/hp-samsung.jpg)
 
-_Sumber foto:_
+_Sumber foto: Elcorteingles.es_
 
 Smartphone yang satu ini adalah paket lengkap untuk gadget enthusiast dan pecinta kegiatan outdoor. Samsung Galaxy S10+ dilengkapi dengan design yang mudah digenggam dan layar 6.4inch AMOLED. Hadir dengan spesifikasi IP68 water resistance dan dust resistance, membuat beraktifitas jadi lebih tenang tanpa takut HP rusak saat kehujanan atau banjir. Samsung Galaxy S10+ kabarnya akan dirilis pada 8 Maret 2020.
 
 2. Apple iPhone 9/SE 2
 
-![]()
+![](/img/hp-ip.jpg)
 
-_Sumber foto:_
+_Sumber foto: Tekxplorer.com_
 
 HP keluaran Apple yang akan dirilis Maret 2020 ini diklaim memiliki tingkat water resistance IP 67. Artinya, HP canggih yang diperkirakan akan dilengkapi dengan quad-core A10 chipset dan 2GB RAM ini mampu bertahan di 1,5 meter di bawah air. Dengan kemampuan water resistance, Iphone SE2 cocok untuk dibawa melewati kegiatan outdoor yang rentan terkena air. Untuk spesifikasi lebih lengkapnya bisa Sobat Shopee lihat setelah resmi dirilis.
 
 3. LG G9 ThinQ
 
-![]()
+![](/img/hp-lg.jpg)
 
-_Sumber foto:_
+_Sumber foto: Techcodex.com_
 
 LG akan merilis keluaran terbarunya di Maret 2020. Smartphone dengan fitur canggih ini diklaim mempunyai tingkat water resistance IP 68. Kabarnya, LG G9 ThinQ akan hadir dengan hole-less speaker, tidak ada lagi rasa takut speaker HP akan rusak jika terkena air. LG G9 ini dilengkapi dengan prosesor Snapdragon 865 dan 6GB RAM. Aktifitas outdoor sambil membuka banyak aplikasi jadi lebih mudah dan aman dengan LG G9 ThinQ.
 
