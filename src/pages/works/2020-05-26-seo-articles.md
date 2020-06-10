@@ -70,6 +70,12 @@ Jenis terakhir adalah lantai keramik homogeneous tile. Jika dilihat sepintas, la
 
 Itulah 4 jenis lantai keramik yang bias Anda gunakan untuk rumah minimalis Anda. Sebelum membelinya, pastikan lantai keramik pilihan Anda sesuai dengan konsep ruangan dan perabot rumah Anda. 
 
+ ‎
+
+ ‎
+
+ ‎
+
 # **3 Jenis Gula yang lagi HITS!**
 
 Keyword: Brown sugar
@@ -88,6 +94,10 @@ Brown sugar biasa ini cocok untuk dinikmati bersama segelas kopi susu untuk mena
 
 2. Palm Sugar
 
+![](/img/sugar-palm.jpg)
+
+_Sumber foto: Itrade-id.com_
+
 Jenis kedua dari brown sugar yang sedang naik daun adalah palm sugar atau gula aren. Sesuai dengan namanya, gula aren terbuat dari pohon aren atau pohon enau. Nira dari pohon aren ini dimasak dan dicetak hingga mengeras. Maka, bentuk palm sugar tidak asing lagi bagi kita. Gula aren cenderung lebih murah dari gula kelapa, dan sering digunakan di berbagai kudapan tradisional.
 
 Rasa dari palm sugar ini sedikit berbeda juga. Rasa manisnya bercampur rasa khas dari proses memasaknya. Jenis brown sugar ini cocok dicampur dengan susu segar dan boba. Teksturnya yang kental menjadi ciri khas minuman boba.
@@ -95,6 +105,10 @@ Rasa dari palm sugar ini sedikit berbeda juga. Rasa manisnya bercampur rasa khas
 Baca juga: 7 Rekomendasi Fresh Milk untuk Minuman Boba
 
 3. Gula Jawa
+
+![](/img/sugar-jawa.jpeg)
+
+_Sumber foto: Goodnewsfromindonesia.id_
 
 Gula yang satu ini juga sering disebut brown sugar. Namun, bahan dasarnya berbeda dari brown sugar biasa dan palm sugar. Gula jawa terbuat dari pohon kelapa, maka sering juga disebut gula kelapa. Proses pembuatannya pun hampir sama dengan palm sugar, yaitu dengan menyadap nira dari pohon lalu melalui proses masak dan dicetak menggunakan batok kelapa. 
 
