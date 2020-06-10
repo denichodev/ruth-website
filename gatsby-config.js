@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Ruth Hutagalung",
     description:
-      "A copywriter, love to work and learn about all things about brand crafting. Get to know and work with me, just a one click away!.",
+      "A UX Writer, love to work and learn about all things about brand crafting. Get to know and work with me, just a one click away!.",
     url: "https://www.ruthhutagalung.com", // No trailing slash allowed!
     image: "/img/og-img.png", // Path to your image you placed in the 'static' folder
     twitterUsername: "@14440USD"

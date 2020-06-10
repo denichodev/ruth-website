@@ -70,7 +70,7 @@ const Navbar = props => {
         <Link to="/" className={styles.brandTitle}>
           <div>Ruth Hutagalung</div>
         </Link>
-        <div className={styles.brandSubtitle}>COPYWRITER</div>
+        <div className={styles.brandSubtitle}>UX WRITER</div>
       </div>
     </nav>
   );
