@@ -78,6 +78,10 @@ Milk tea, boba, fresh milk, kopi susu, dan masih banyak lagi. Siapa sih, yang ti
 
 1. Brown Sugar
 
+![](/img/sugar-brown.png)
+
+_Sumber foto: Cdnimg.webstaurantstore.com_
+
 Nama brown sugar ini yang paling banyak kita dengar. Brown sugar terbuat dari gula pasir yang berasal dari pohon tebu dan diproses dengan campuran molase. Warna dari brown sugar ini ada dua jenis, yaitu light dan dark. Brown sugar berbentuk bubuk seperti gula pasir dan lebih sehat dari gula pasir karena kandungannya juga berbeda. Rasa dari brown sugar biasa ini cenderung bercampur dengan rasa kimia. Hal ini dikarenakan dari proses dan cara pembuatannya yang tidak alami.
 
 Brown sugar biasa ini cocok untuk dinikmati bersama segelas kopi susu untuk menambah rasa manis yang tidak terlalu pekat.
