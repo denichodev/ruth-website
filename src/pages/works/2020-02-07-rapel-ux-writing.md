@@ -19,7 +19,7 @@ I handled the UX writing and design, collaborated with one designer and other so
 
 I stopped working on the project during the detailed visual design phase as the app started to be built.
 
-The new redesigned app will launch in Google Playstore soon.
+The new redesigned app is available now at Google Playstore [here](https://play.google.com/store/apps/details?id=sg.com.jetdigital.werider.app).
 
 ![](/img/picture1.png)
 
@@ -32,11 +32,3 @@ The new redesigned app will launch in Google Playstore soon.
 ![](/img/picture6.png)
 
 ![](/img/picture7.png)
-
-
-
-
-
-Here's the link for the app before redesigned.
-
-https://play.google.com/store/apps/details?id=sg.com.jetdigital.werider.app
