@@ -1,6 +1,6 @@
 ---
 templateKey: works-post
-title: Shopee SEO Articles
+title: SHOPEE SEO ARTICLES
 date: 2020-05-26T04:15:08.960Z
 description: 'Another series of SEO articles by me, for Shopee Indonesia. '
 featuredpost: true
