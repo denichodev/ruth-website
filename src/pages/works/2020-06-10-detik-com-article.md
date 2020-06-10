@@ -10,6 +10,10 @@ tags:
 ---
 Writing news article is one of the things that I NEVER did. I was a job seeker and luckily got the opportunity to do an interview and several applicant assessments for Detik.com. With only 2 hours of deadline, I have to write an inspiring news articles abut the life of _ojol_ or taxibike driver. It was late at night, after another 30mins of walking, I happened to hang out with super kind and inspiring drivers at Blok M, Jakarta. With some warm _gorengan_ and a cup of hot coffee, here goes one of the story that I heard that night...
 
+ ‎
+
+ ‎
+
 # Asep, Seorang Driver Ojol Sekaligus Penjual Gorengan Jadi Tulang Punggung Keluarga
 
 Jakarta - Menjadi tulang punggung keluarga tidaklah mudah. Untuk mencukupi segala kebutuhan keluarga, seorang kepala keluarga sekaligus tulang punggung harus bekerja ekstra demi orang-orang tersayang. Kadang, satu pekerjaan belum tentu cukup untuk memenuhi kebutuhan.
