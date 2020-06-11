@@ -8,7 +8,7 @@ featuredimage: /img/logo.jpg
 tags:
   - news articles
 ---
-Writing news article is one of the things that I NEVER did. I was a job seeker and luckily got the opportunity to do an interview and several applicant assessments for Detik.com. With only 2 hours of deadline, I have to write an inspiring news articles abut the life of _ojol_ or taxibike driver. It was late at night, after another 30mins of walking, I happened to hang out with super kind and inspiring drivers at Blok M, Jakarta. With some warm _gorengan_ and a cup of hot coffee, here goes one of the story that I heard that night...
+Writing news article is one of the things that I NEVER did. I was a job seeker and luckily got the opportunity to do an interview and several applicant assessments for Detik.com. With only 2 hours of deadline, I have to write an inspiring news articles abut the life of _ojol_ or taxibike driver. It was late at night, I happened to hang out with super kind and inspiring drivers at Blok M, Jakarta. n the middle of the city that never sleep, those faces and that one particular night will be forever stored in the back of my mind. With some warm _gorengan_ and a cup of hot coffee, here goes one of the story that I heard that night...
 
  ‎
 
@@ -42,6 +42,4 @@ _‏‏‎ ‎_
 
 _‏‏‎ ‎_
 
-In the middle of the city that never sleep, those faces and that one particular night will be forever stored in the back of my mind. 
-
-Somehow got accepted for the job because of their story. Beyond thankful for Detik.com, if it's not because of you, I will never experienced this.
+(Somehow got accepted for the job because of their story. Beyond thankful for Detik.com, if it's not because of you, I will never experienced this!)
