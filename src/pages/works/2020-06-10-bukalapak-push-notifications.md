@@ -12,7 +12,7 @@ tags:
   - E-commerce
   - Application
 ---
-I am responsible for Bukalapak's Core, Growth, Financing, and Investment's copies. Here are some example of push notifications that I wrote.
+Here are some example of push notifications that I wrote.
 
  ‎
 
