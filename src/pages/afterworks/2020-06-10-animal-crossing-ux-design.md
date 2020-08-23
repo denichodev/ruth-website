@@ -1,6 +1,6 @@
 ---
 templateKey: afterworks-post
-title: ANIMAL CROSSING UX DESIGN
+title: ANIMAL CROSSING FANMADE DESIGN
 date: 2020-06-10T09:33:33.447Z
 description: >-
   Tom Nook, please, listen to us. This is the type of island life that we all
