@@ -13,8 +13,9 @@ tags:
   - Fan Made UX Design
   - Animal Crossing New Horizons
 ---
-I'm not a game person.. really. The only game that I play religiously is Dota 2.\
-yed it religiously almost everyday for quite some times during my college years. Never played anything again, until Mr. Corona came and Nintendo release its newest version of Animal Crossing. Yay!
+_First of all.. let me for once make this blablabla about design. I have a lot of free time because of Mr. Corona and trying to make something out of my 200+ hours on Animal Crossing._ 
+
+...
 
 I thought virtually fishing, catching bugs, spent hours to pluck weeds and flowers would be therapeutic. But only after around 1 week of playing I realized something:  
 
@@ -58,8 +59,6 @@ Taking the existing pattern that is already in the game, I re-designed the inven
 
 Sort options include — By Alphabetical, type and order obtained. This allows players to organize their inventory with ease, alleviating the pain when players need to perform activities such as buying/selling and gifting.
 
-
-
 ## Tools Durability Indicator
 
 One of the ways ACNH sets itself apart from the previous titles in the Animal Crossing series is in how it handles tools. Every tool in the game now has a finite life span and breaks after a certain number of usage. This teaches the player to be more resourceful, and considerate about the usage of tools.
@@ -70,8 +69,6 @@ As we step in uncharted UI territory for the AC series, I took inspirations from
 
 ![Animal Crossing UX design](/img/tools-hp-before.jpeg "Invisible Tools HP")
 
-
-
 ![Animal Crossing UX design](/img/tools-hp.jpg "Visible Tools HP")
 
 Other than those mentioned above, I think there's a lot of room for improvements in ACNH's UI/UX design.
@@ -81,7 +78,5 @@ Other than those mentioned above, I think there's a lot of room for improvements
 These designs are early concepts, none of them has been tested. Creating a new flow will require more player testing, with different items in the game and more scenarios/use cases.
 
 By no means do I think these design changes are simple to implement, neither do I know the original intentions behind some of these decisions, but I believe changes like these will help players establish a routine by making key activities much easier and intuitive to perform, thus reduce the _“grindy-ness”_ feel of the game.
-
-
 
 Cheers!
