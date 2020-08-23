@@ -1,6 +1,6 @@
 ---
 templateKey: works-post
-title: BUKALAPAK PUSH NOTIFICATIONS
+title: PUSH NOTIFICATIONS
 date: 2020-06-10T09:58:34.172Z
 description: "\U0001F3B6  Bu-ka-la-pak buka dulu~ \U0001F3B6 "
 featuredpost: true
