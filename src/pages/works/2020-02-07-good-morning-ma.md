@@ -15,7 +15,7 @@ tags:
 ---
 Maraville hit their biggest income since their opening 1,5 years ago.
 
-Engagement increase by 40%.
+Engagement increases by 40%.
 
 @maravillecoffee Instagram Instastory exit rate decreased by 34%.
 
